@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.m-t-2{
+  margin-top: 40px;
+}
+.panel-primary,.panel-warning{
+  border:  1px solid blue;
+}
+.m-b-1{
+  margin-bottom: 10px;
+}
+#content{
+  border: 2px solid red;
+    padding: 6px;
+}
+.active {
+  border: 3px solid black;
+}
+span{
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
